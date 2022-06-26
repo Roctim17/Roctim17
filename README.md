@@ -4,7 +4,7 @@
 
  I am Experienced with HTML5, CSS3, bootstrap, TailWind, JavaScript, React, Firebase, and WordPress. And Comfortable With MongoDB, Node Js, and Express. I am using (Git, Heroku, Chrome dev tools, Netlify, and VsCode) for my Work. And Familiar with React Native & Next js.
 
-Skills:  REACT / JS / HTML / CSS/ Node/ Express/ Mongo
+Skills:  REACT / JS / HTML / CSS/ Node/ Express/ Mongodb
 
 - 🔭 I’m currently working on #OPENTOWORK 
 - 🌱 I’m currently learning Node, React Native, NextJS 
